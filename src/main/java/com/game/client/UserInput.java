@@ -1,6 +1,6 @@
-package com.playtech.client;
+package com.game.client;
 
-import com.playtech.common.PlayerAction;
+import com.game.common.PlayerAction;
 
 import java.io.BufferedReader;
 import java.io.IOException;

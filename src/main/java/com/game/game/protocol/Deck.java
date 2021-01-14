@@ -1,6 +1,6 @@
-package com.playtech.game.protocol;
+package com.game.game.protocol;
 
-import com.playtech.common.Card;
+import com.game.common.Card;
 
 import java.util.*;
 

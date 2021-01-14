@@ -1,6 +1,7 @@
-package com.playtech.server;
+package com.game.server;
 
-import com.playtech.common.PlayerAction;
+import com.game.common.PlayerAction;
+import com.game.game.protocol.*;
 import com.playtech.game.protocol.*;
 
 import java.io.IOException;

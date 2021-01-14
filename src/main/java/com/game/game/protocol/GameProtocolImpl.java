@@ -1,9 +1,8 @@
-package com.playtech.game.protocol;
+package com.game.game.protocol;
 
-import com.playtech.common.Card;
-import com.playtech.common.PlayerAction;
+import com.game.common.Card;
+import com.game.common.PlayerAction;
 
-import java.time.LocalDateTime;
 import java.util.Random;
 
 public class GameProtocolImpl implements GameProtocol {

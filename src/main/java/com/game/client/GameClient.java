@@ -1,8 +1,8 @@
-package com.playtech.client;
+package com.game.client;
 
-import com.playtech.common.PlayerAction;
-import com.playtech.game.protocol.FinishRoundRequest;
-import com.playtech.game.protocol.StartRoundRequest;
+import com.game.game.protocol.FinishRoundRequest;
+import com.game.game.protocol.StartRoundRequest;
+import com.game.common.PlayerAction;
 
 import java.io.BufferedReader;
 import java.io.IOException;

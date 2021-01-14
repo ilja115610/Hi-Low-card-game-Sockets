@@ -1,4 +1,4 @@
-package com.playtech.common;
+package com.game.common;
 
 public enum PlayerAction {
     HIGHER,

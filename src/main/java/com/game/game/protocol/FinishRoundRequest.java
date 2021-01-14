@@ -1,4 +1,4 @@
-package com.playtech.game.protocol;
+package com.game.game.protocol;
 
 import java.io.Serializable;
 
